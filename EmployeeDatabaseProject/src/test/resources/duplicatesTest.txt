@@ -1,0 +1,11 @@
+Duplicate Employees: 10
+EmployeeDTO{emp_ID='260736', namePrefix='Ms.', firstName='Zelda', middleInitial='P', lastName='Forest', gender='F', email='zelda.forest@ibm.com', dob=1959-11-27, dateOfJoining=2014-01-28, salary=176642}
+EmployeeDTO{emp_ID='811306', namePrefix='Mr.', firstName='Rhett', middleInitial='P', lastName='Wan', gender='M', email='rhett.wan@hotmail.com', dob=1976-07-14, dateOfJoining=2009-01-21, salary=59406}
+EmployeeDTO{emp_ID='956633', namePrefix='Mr.', firstName='Hal', middleInitial='H', lastName='Farrow', gender='M', email='hal.farrow@cox.net', dob=1967-03-15, dateOfJoining=1991-02-25, salary=164580}
+EmployeeDTO{emp_ID='629539', namePrefix='Dr.', firstName='Del', middleInitial='I', lastName='Fernandez', gender='M', email='del.fernandez@hotmail.com', dob=1991-08-13, dateOfJoining=2016-04-07, salary=138662}
+EmployeeDTO{emp_ID='784160', namePrefix='Dr.', firstName='Corey', middleInitial='A', lastName='Jackman', gender='M', email='corey.jackman@gmail.com', dob=1959-04-12, dateOfJoining=1984-06-29, salary=57616}
+EmployeeDTO{emp_ID='260736', namePrefix='Ms.', firstName='Zelda', middleInitial='P', lastName='Forest', gender='F', email='zelda.forest@ibm.com', dob=1959-11-27, dateOfJoining=2014-01-28, salary=176642}
+EmployeeDTO{emp_ID='811306', namePrefix='Mr.', firstName='Rhett', middleInitial='P', lastName='Wan', gender='M', email='rhett.wan@hotmail.com', dob=1976-07-14, dateOfJoining=2009-01-21, salary=59406}
+EmployeeDTO{emp_ID='956633', namePrefix='Mr.', firstName='Hal', middleInitial='H', lastName='Farrow', gender='M', email='hal.farrow@cox.net', dob=1967-03-15, dateOfJoining=1991-02-25, salary=164580}
+EmployeeDTO{emp_ID='629539', namePrefix='Dr.', firstName='Del', middleInitial='I', lastName='Fernandez', gender='M', email='del.fernandez@hotmail.com', dob=1991-08-13, dateOfJoining=2016-04-07, salary=138662}
+EmployeeDTO{emp_ID='784160', namePrefix='Dr.', firstName='Corey', middleInitial='A', lastName='Jackman', gender='M', email='corey.jackman@gmail.com', dob=1959-04-12, dateOfJoining=1984-06-29, salary=57616}
